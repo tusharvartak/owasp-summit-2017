@@ -9,7 +9,7 @@ when-day     :
 when-time    :
 location     :
 organizers   : Matteo Meucci
-participants : Mateo Martinez,Ade Yoseman Putra, Mario Robles
+participants : Mateo Martinez,Ade Yoseman Putra, Mario Robles, Tushar Vartak
 ---
 
 This is the OWASP Testing Guide Project Roadmap for v5.
